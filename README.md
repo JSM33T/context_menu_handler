@@ -8,9 +8,13 @@ Run MAIN.BAT
 
 ### Interface
 
-What things you need to install the software and how to install them
-
 ```
 Screenshot.jpg
 ```
 <img src="screenshot.jpg">
+
+## Files
+
+* main.bat : Maain script file
+* sample_add_notepad.reg : sample registry file for the test code
+* screenshot.jpg : interface screenshot
