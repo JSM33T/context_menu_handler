@@ -1,6 +1,7 @@
 # CONTEXT MENU HANDLER
 
 Tool to add / remove context menu entries
+was an old school projekt
 
 ## Getting Started
 
